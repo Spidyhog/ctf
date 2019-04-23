@@ -1,0 +1,11 @@
+<?php
+	$a=$_POST["c"];
+	if($a=="xyz987abcd")
+	{
+		header("location:xyz987abcd.html");
+	}
+	else
+	{
+		header("location:level6.html");
+	}
+?>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+	<meta charset="UTF-8">
+	<title>Question 1</title>
+	<link rel="stylesheet" href="css/style.css"> 
+</head>
+
+<body>
+    <div class="switch">
+		<input id="vaibhav" type="checkbox" name="toggle" onchange="redirectPage('guess')">
+		<label for="toggle"><i></i></label>
+		<span></span>
+	</div>
+    <script>
+    	function redirectPage(x) {
+	    	if(x.checked){
+	    		setTimeout(function() {
+	    		window.location.href="https://www.google.com"
+	    		},1000)
+	    	}
+    	}
+    </script>
+</body>
+</html>

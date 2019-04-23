@@ -1,0 +1,11 @@
+<?php
+	$a=$_POST["c"];
+	if($a=="CYP1CS40E")
+	{
+		header("location:americaca98.html");
+	}
+	else
+	{
+		header("location:captainam86.html");
+	}
+?>

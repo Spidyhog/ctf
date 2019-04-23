@@ -1,0 +1,26 @@
+Address
+what is android
+where it came from
+how applications are developed
+why do we need apps
+current scenario
+future aspects
+this will not make you expert
+give you a start
+content
+software installations
+
+Hello Everyone, As you all must be aware that we'll be beginning with the annual technical fest of CSE department from 12 am tonight.
+There are going to be various events like Kodeathon, Treasure Hunt, Oblivion, that happen every year, and some new events that have been added this year like Cryptic Hunt, Infosessions, and technical workshops on Android App Development and
+Creating a Chat Bot using Microsoft AI bot framework.
+
+Out of these events and workshop a major attraction would be the Android App development workshop which is being organized by Google Developers. Google 
+
+And I'm here to tell you all why we chose to have this workshop and why is it important for you or how is it going to help you.
+
+Before I go any further,Let's know some facts about android
+
+Android is a mobile operating system developed by Google, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets
+
+Initially developed by Android Inc., which Google bought in 2005, Android was unveiled in 2007.
+And now with in a very short span, it has grown up to be the largest operating system for mobile phones with over 80% market share that is more than 1.7 billion users.
